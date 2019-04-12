@@ -1,0 +1,4 @@
+#Fri Apr 12 14:22:29 CST 2019
+base.0=/Users/nergal/Downloads/MqttClientAndroid-master/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,94 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/nergal/Downloads/MqttClientAndroid-master/app/src/main/AndroidManifest.xml:1:1-24:12
+INJECTED from /Users/nergal/Downloads/MqttClientAndroid-master/app/src/main/AndroidManifest.xml:1:1-24:12
+INJECTED from /Users/nergal/Downloads/MqttClientAndroid-master/app/src/main/AndroidManifest.xml:1:1-24:12
+INJECTED from /Users/nergal/Downloads/MqttClientAndroid-master/app/src/main/AndroidManifest.xml:1:1-24:12
+MERGED from [com.github.LichFaker:Logger:v1.0.0] /Users/nergal/.gradle/caches/transforms-1/files-1.1/Logger-v1.0.0.aar/5ebab3d59fda82df69dadccd4d00e208/AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:appcompat-v7:23.2.1] /Users/nergal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.2.1.aar/eeede6e6ef8a75cbb952fb1760b4a844/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] /Users/nergal/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.2.1.aar/4b3f247e9dd56435069386737ec4705c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.2.1] /Users/nergal/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.2.1.aar/13aedab31d6894954652d5c0d3764356/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v4:23.2.1] /Users/nergal/.gradle/caches/transforms-1/files-1.1/support-v4-23.2.1.aar/2f320ee40f19787d79e561f94a81aec3/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/nergal/Downloads/MqttClientAndroid-master/app/src/main/AndroidManifest.xml:1:1-24:12
+INJECTED from /Users/nergal/Downloads/MqttClientAndroid-master/app/src/main/AndroidManifest.xml:1:1-24:12
+INJECTED from /Users/nergal/Downloads/MqttClientAndroid-master/app/src/main/AndroidManifest.xml:1:1-24:12
+	package
+		ADDED from /Users/nergal/Downloads/MqttClientAndroid-master/app/src/main/AndroidManifest.xml:2:5-46
+		INJECTED from /Users/nergal/Downloads/MqttClientAndroid-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nergal/Downloads/MqttClientAndroid-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/nergal/Downloads/MqttClientAndroid-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nergal/Downloads/MqttClientAndroid-master/app/src/main/AndroidManifest.xml:1:1-24:12
+		INJECTED from /Users/nergal/Downloads/MqttClientAndroid-master/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/nergal/Downloads/MqttClientAndroid-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nergal/Downloads/MqttClientAndroid-master/app/src/main/AndroidManifest.xml:1:1-24:12
+		INJECTED from /Users/nergal/Downloads/MqttClientAndroid-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/nergal/Downloads/MqttClientAndroid-master/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/nergal/Downloads/MqttClientAndroid-master/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/nergal/Downloads/MqttClientAndroid-master/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/nergal/Downloads/MqttClientAndroid-master/app/src/main/AndroidManifest.xml:7:5-22:19
+MERGED from [com.github.LichFaker:Logger:v1.0.0] /Users/nergal/.gradle/caches/transforms-1/files-1.1/Logger-v1.0.0.aar/5ebab3d59fda82df69dadccd4d00e208/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.LichFaker:Logger:v1.0.0] /Users/nergal/.gradle/caches/transforms-1/files-1.1/Logger-v1.0.0.aar/5ebab3d59fda82df69dadccd4d00e208/AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:23.2.1] /Users/nergal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.2.1.aar/eeede6e6ef8a75cbb952fb1760b4a844/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.2.1] /Users/nergal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.2.1.aar/eeede6e6ef8a75cbb952fb1760b4a844/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] /Users/nergal/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.2.1.aar/4b3f247e9dd56435069386737ec4705c/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] /Users/nergal/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.2.1.aar/4b3f247e9dd56435069386737ec4705c/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.1] /Users/nergal/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.2.1.aar/13aedab31d6894954652d5c0d3764356/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.1] /Users/nergal/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.2.1.aar/13aedab31d6894954652d5c0d3764356/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.2.1] /Users/nergal/.gradle/caches/transforms-1/files-1.1/support-v4-23.2.1.aar/2f320ee40f19787d79e561f94a81aec3/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.2.1] /Users/nergal/.gradle/caches/transforms-1/files-1.1/support-v4-23.2.1.aar/2f320ee40f19787d79e561f94a81aec3/AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from /Users/nergal/Downloads/MqttClientAndroid-master/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /Users/nergal/Downloads/MqttClientAndroid-master/app/src/main/AndroidManifest.xml:10:9-41
+	android:icon
+		ADDED from /Users/nergal/Downloads/MqttClientAndroid-master/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/nergal/Downloads/MqttClientAndroid-master/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/nergal/Downloads/MqttClientAndroid-master/app/src/main/AndroidManifest.xml:12:9-40
+activity#com.lichfaker.mqttclientandroid.ui.MainActivity
+ADDED from /Users/nergal/Downloads/MqttClientAndroid-master/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /Users/nergal/Downloads/MqttClientAndroid-master/app/src/main/AndroidManifest.xml:14:19-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/nergal/Downloads/MqttClientAndroid-master/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/nergal/Downloads/MqttClientAndroid-master/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/nergal/Downloads/MqttClientAndroid-master/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/nergal/Downloads/MqttClientAndroid-master/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/nergal/Downloads/MqttClientAndroid-master/app/src/main/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /Users/nergal/Downloads/MqttClientAndroid-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/nergal/Downloads/MqttClientAndroid-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/nergal/Downloads/MqttClientAndroid-master/app/src/main/AndroidManifest.xml
+MERGED from [com.github.LichFaker:Logger:v1.0.0] /Users/nergal/.gradle/caches/transforms-1/files-1.1/Logger-v1.0.0.aar/5ebab3d59fda82df69dadccd4d00e208/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.LichFaker:Logger:v1.0.0] /Users/nergal/.gradle/caches/transforms-1/files-1.1/Logger-v1.0.0.aar/5ebab3d59fda82df69dadccd4d00e208/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.2.1] /Users/nergal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.2.1.aar/eeede6e6ef8a75cbb952fb1760b4a844/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.2.1] /Users/nergal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.2.1.aar/eeede6e6ef8a75cbb952fb1760b4a844/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] /Users/nergal/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.2.1.aar/4b3f247e9dd56435069386737ec4705c/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] /Users/nergal/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.2.1.aar/4b3f247e9dd56435069386737ec4705c/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.2.1] /Users/nergal/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.2.1.aar/13aedab31d6894954652d5c0d3764356/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.2.1] /Users/nergal/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.2.1.aar/13aedab31d6894954652d5c0d3764356/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.2.1] /Users/nergal/.gradle/caches/transforms-1/files-1.1/support-v4-23.2.1.aar/2f320ee40f19787d79e561f94a81aec3/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.2.1] /Users/nergal/.gradle/caches/transforms-1/files-1.1/support-v4-23.2.1.aar/2f320ee40f19787d79e561f94a81aec3/AndroidManifest.xml:20:5-43
+INJECTED from /Users/nergal/Downloads/MqttClientAndroid-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/nergal/Downloads/MqttClientAndroid-master/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.2.1] /Users/nergal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.2.1.aar/eeede6e6ef8a75cbb952fb1760b4a844/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/nergal/Downloads/MqttClientAndroid-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nergal/Downloads/MqttClientAndroid-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nergal/Downloads/MqttClientAndroid-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/nergal/Downloads/MqttClientAndroid-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nergal/Downloads/MqttClientAndroid-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nergal/Downloads/MqttClientAndroid-master/app/src/main/AndroidManifest.xml
